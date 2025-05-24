@@ -12,7 +12,7 @@
         <scene sceneID="xBa-f8-EcG">
             <objects>
                 <viewController storyboardIdentifier="SplashViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="m6e-db-JgD" customClass="SplashViewController" customModule="AnimalsApp" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="P7Q-8M-SGq" customClass="Ta">
+                    <view key="view" contentMode="scaleToFill" id="P7Q-8M-SGq">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
