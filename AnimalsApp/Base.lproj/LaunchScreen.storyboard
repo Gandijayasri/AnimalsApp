@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Screenshot 2025-05-23 at 3.03.37 PM" translatesAutoresizingMaskIntoConstraints="NO" id="e9j-X4-4Vw">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch-screen-image" translatesAutoresizingMaskIntoConstraints="NO" id="e9j-X4-4Vw">
                                 <rect key="frame" x="78.666666666666671" y="308" width="235.66666666666663" height="236"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="e9j-X4-4Vw" secondAttribute="height" multiplier="1:1" id="5EY-Q2-c31"/>
@@ -38,7 +38,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Screenshot 2025-05-23 at 3.03.37 PM" width="140.66667175292969" height="142"/>
+        <image name="launch-screen-image" width="256" height="256"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
